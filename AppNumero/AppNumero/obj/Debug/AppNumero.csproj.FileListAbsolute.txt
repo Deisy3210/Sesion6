@@ -1,0 +1,9 @@
+c:\users\lab104bpc22\documents\visual studio 2012\Projects\AppNumero\AppNumero\bin\Debug\AppNumero.exe.config
+c:\users\lab104bpc22\documents\visual studio 2012\Projects\AppNumero\AppNumero\bin\Debug\AppNumero.exe
+c:\users\lab104bpc22\documents\visual studio 2012\Projects\AppNumero\AppNumero\bin\Debug\AppNumero.pdb
+c:\users\lab104bpc22\documents\visual studio 2012\Projects\AppNumero\AppNumero\obj\Debug\AppNumero.csprojResolveAssemblyReference.cache
+c:\users\lab104bpc22\documents\visual studio 2012\Projects\AppNumero\AppNumero\obj\Debug\AppNumero.Form1.resources
+c:\users\lab104bpc22\documents\visual studio 2012\Projects\AppNumero\AppNumero\obj\Debug\AppNumero.Properties.Resources.resources
+c:\users\lab104bpc22\documents\visual studio 2012\Projects\AppNumero\AppNumero\obj\Debug\AppNumero.csproj.GenerateResource.Cache
+c:\users\lab104bpc22\documents\visual studio 2012\Projects\AppNumero\AppNumero\obj\Debug\AppNumero.exe
+c:\users\lab104bpc22\documents\visual studio 2012\Projects\AppNumero\AppNumero\obj\Debug\AppNumero.pdb
